@@ -13,9 +13,9 @@ const Footer = () => {
           <FaGithubSquare />
         </div>
         <div className="flex items-center gap-2 mt-4 md:mt-0">
-          <span className="text-sm md:text-base">9869374141</span>
+          <span className="text-sm md:text-base">9847301883</span>
           <span className="text-sm md:text-base">|</span>
-          <a href="mailto:silwalsolomon@gmail.com" className="text-gray-500 hover:text-white text-sm md:text-base">silwalsolomon@gmail.com</a>
+          <a href="mailto:silwalsolomon@gmail.com" className="text-gray-500 hover:text-white text-sm md:text-base">subrace@gmail.com</a>
         </div>
       </div>
     </div>

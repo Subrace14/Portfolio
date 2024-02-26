@@ -1,5 +1,5 @@
 import React from 'react'
-// uyjuyjnhhgn/h
+
 
 const Contact = () => {
   return (
@@ -53,3 +53,8 @@ const Contact = () => {
 }
 
 export default Contact
+
+
+
+
+
